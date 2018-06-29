@@ -28,6 +28,6 @@ public class student {
 
 		for (int i = 0; i < 4; i++) {
 			System.out.println("학생" + (i + 1) + "의 순위 : " + rank[i] + "등");
-	   }
+		}
 	}
 }

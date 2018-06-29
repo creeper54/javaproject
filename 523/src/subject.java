@@ -8,7 +8,7 @@ public class subject {
 		Scanner input = new Scanner(System.in);
 		int Korean, Math, Social, Science;
 		int s, c;
- 
+
 		System.out.println("과목의 점수를 입력 하시오");
 
 		System.out.print("국어 점수를 입력하시오:");

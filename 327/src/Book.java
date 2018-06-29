@@ -46,9 +46,7 @@ public class Book {
 		this.genre = genre;
 	}
 
+	public Book(String title, String author, String publisher, int page, String genre) {
 
-
-public Book(String title,String author,String publisher,int page,String genre ){
-
- }
+	}
 }
